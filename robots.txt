@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: https://glaauub.github.io/46456546546546/sitemap.xml
